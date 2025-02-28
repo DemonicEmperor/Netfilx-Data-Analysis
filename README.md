@@ -52,10 +52,9 @@ Open the `netflix_analysis.ipynb` file and execute the cells.
 ## 📎 Project Structure
 ```
 Netflix-Analysis/
-│-- dataset/netflix_data.csv
+│-- mymoviedb.csv
 │-- netflix_analysis.ipynb
 │-- README.md
-│-- requirements.txt
 ```
 
 ## 🤝 Contributing
